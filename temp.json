@@ -1,0 +1,10 @@
+{
+"kind": "Namespace",
+"apiVersion": "v1alpha1",
+"metadata": {
+"name": "rocc"
+},
+"spec": {
+"finalizers": []
+}
+}
